@@ -7,7 +7,7 @@ the docker image is here https://hub.docker.com/repository/docker/xieshujian/ofb
 
 run the docker
 
-docker run --name ofbiz -itd -p8443:8443 xieshujian/ofbiz
+docker run --name ofbiz -itd -p 8443:8443 xieshujian/ofbiz
 
 
 
